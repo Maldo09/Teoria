@@ -1,0 +1,27 @@
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+.Liga_betplay{
+    color: red;
+}
+/*En CSS, para seleccionar un elemento por su clase, se utiliza el punto (.) seguido del nombre de la clase. y en ID se hace lo mismo pero reemplazando el punto por el #.*/
+#Liga_de_naciones_de_la_UEFA {
+    color: aqua;
+}
+ul{
+    list-style-type:square;
+    border: 5px solid black;
+    width: 400px;
+    height: 400px;
+}
+h1{
+    color: brown;
+    padding: 40px;
+    text-align: center;
+    border: black solid 50px;
+    margin: 100px 10px 50px 40px;
+    /*El margin se maneja en el orden: Arriba, derecha, abajo, izquierda*/
+    background-color:rgba(102, 109, 134, 0.831);
+}
